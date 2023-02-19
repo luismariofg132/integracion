@@ -1,6 +1,3 @@
-# integracion
+# Integracion
 
-Andres Gaitan
-Ingrid Pinilla 
-Nairo Guerrero
-Keiro_18
+SVD
